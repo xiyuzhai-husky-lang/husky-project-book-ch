@@ -1,1 +1,1 @@
-# husky-project-book-ch
+# 哈士奇项目文书中文版
